@@ -6,7 +6,7 @@ This repo is in support to the video tutorial on how to build a Disney Clone wit
 
 ### add assets
 
-First, you need to create your GraphCMS Account and add assets to it as per the video tutorial.
+First, you need to create your GraphCMS Account and add assets to it as per the [video](https://youtu.be/u1ovHJXkPBY) tutorial.
 
 ### add a `.env` file
 
