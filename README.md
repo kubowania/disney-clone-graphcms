@@ -1,6 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
-## Getting Started
+## Disney Clone with GraphCMS
 
 This repo is in support to the video tutorial on how to build a Disney Clone with GraphCMS.
 
@@ -32,6 +30,10 @@ npm run dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+
+### One click deploy
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fkubowania%2Fdisney-clone-graphcms&env=GRAPH_CMS_TOKEN,ENDPOINT)
 
 ### MIT Licence
 
