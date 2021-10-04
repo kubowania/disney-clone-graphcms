@@ -13,7 +13,7 @@ export const getStaticProps = async () => {
     const url = process.env.ENDPOINT
     const graphQLClient = new GraphQLClient(url, {
         headers: {
-            "Authorization": process.env.GRAPH_CMS_TOKEN
+            "Authorization": `Bearer ${process.env.GRAPH_CMS_TOKEN}`
         }
     })
 
